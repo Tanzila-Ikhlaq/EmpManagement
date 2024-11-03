@@ -1,4 +1,13 @@
 # Dependencies
-fastapi[all] python-jose[cryptography] passlib[bcrypt]
-pytest httpx pytest-asyncio
+fastapi
+uvicorn
+mysql-connector-python
+python-dotenv
+passlib
+PyJWT
+pytest
+pytest-asyncio
+httpx
+pydantic
+
 
