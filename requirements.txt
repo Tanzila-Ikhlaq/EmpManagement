@@ -1,0 +1,4 @@
+# Dependencies
+fastapi[all] python-jose[cryptography] passlib[bcrypt]
+pytest httpx pytest-asyncio
+
